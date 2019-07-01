@@ -1,0 +1,5 @@
+*.dat
+*.vot
+*.xml.gz
+gaia-hrd-dr2.ipynb
+.ipynb_checkpoints/
