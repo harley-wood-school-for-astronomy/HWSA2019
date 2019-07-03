@@ -1,0 +1,15 @@
+name: hwsa
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - astropy
+  - astroquery
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyter
+  - line_profiler
+  - schwimmbad
