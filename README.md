@@ -18,6 +18,8 @@ Examples explored:
 
 ## Session 2: Hands on project work, applying skills to (intentionally) crappy code
 
+After installing `conda`, please do `conda env create -f hwsa-environment.yml`
+
 Data can be found here:
 
 [In votable formaat](https://www.dropbox.com/s/3hsijr0fsj6evjb/async_20190630210155.vot?dl=0)
