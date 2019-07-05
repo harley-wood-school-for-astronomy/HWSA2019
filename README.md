@@ -20,8 +20,8 @@ Examples explored:
 
 Data can be found here:
 
-votable: https://www.dropbox.com/s/3hsijr0fsj6evjb/async_20190630210155.vot?dl=0
+[In votable formaat](https://www.dropbox.com/s/3hsijr0fsj6evjb/async_20190630210155.vot?dl=0)
 
-pkl file: https://www.dropbox.com/s/4jat5yjmb7okwi9/async_20190630210155.pkl?dl=0
+[As a pkl file](https://www.dropbox.com/s/4jat5yjmb7okwi9/async_20190630210155.pkl?dl=0)
 
 ## Session 3: Revision and Benchmarking
