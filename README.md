@@ -26,4 +26,6 @@ Data can be found here:
 
 [As a pkl file](https://www.dropbox.com/s/4jat5yjmb7okwi9/async_20190630210155.pkl?dl=0)
 
+[vot table subset](https://www.dropbox.com/s/3hczxo7vtn7zia7/async_subset.vot?dl=0)
+
 ## Session 3: Revision and Benchmarking
