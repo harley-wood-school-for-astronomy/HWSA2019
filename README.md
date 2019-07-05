@@ -8,13 +8,13 @@ You will likely need to sign in with you google account.
 
 ## Session 1: Interactive lecture, intro to coding style and practices
 Examples explored:
-- Readbility.ipynb
-- Structure.ipynb
-- Documentation.ipynb
-- Excepttions.ipynb
-- DRY examples.ipynb
-- Testing.ipynb
-- Vectorize.ipynb
+- [Readability](Readbility.ipynb)
+- [Structure](Structure.ipynb)
+- [Documentation](Documentation.ipynb)
+- [Exception](Excepttions.ipynb)
+- [DRY examples](DRY examples.ipynb)
+- [Testing](Testing.ipynb)
+- [Vectorize](Vectorize.ipynb)
 
 ## Session 2: Hands on project work, applying skills to (intentionally) crappy code
 
